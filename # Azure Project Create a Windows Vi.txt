@@ -1,52 +1,49 @@
-# Azure Project: Create a Windows Virtual Machine
+# Azure-Windows-VM-Project
 
 ## 📘 Overview
 This project demonstrates how to create and access a Windows Virtual Machine (VM) using the Microsoft Azure Portal.
 
-## 📌 Project Objectives
-- Launch a Windows 10 VM in Azure
-- Set up networking and public IP
-- Connect using Remote Desktop (RDP)
+---
+
+## 📸 Screenshots with Steps
+
+### Step 1: Create the Virtual Machine  
+![Step 1](step1-create-vm.png.png)
+
+### Step 2: Configure Size and Region  
+![Step 2](step2.png.png)
+
+### Step 3: Set Admin Username and Password  
+![Step 3](step3.png.png)
+
+### Step 4: Configure Networking (NSG Rules)  
+![Step 4](step4.png.png)
+
+### Step 5: Review + Create  
+![Step 5](step5.png.png)
+
+### Step 6: Deployment in Progress  
+![Step 6](step6.png.png)
+
+### Step 7: Connect via RDP  
+![Step 7](step7.png.png) and 
+
+---
 
 ## 🧰 Tools Used
-- Microsoft Azure Portal
-- Windows Remote Desktop
-- Resource Groups, NSG, VM, Disk, NIC
+- Azure Portal
+- Virtual Machine (Windows 11)
+- Networking and Public IP
+- Remote Desktop Protocol (RDP)
 
-## 📸 Screenshots
+## 🧠 Skills Gained
+- VM provisioning in Azure
+- Networking and NSG setup
+- Public IP configuration
+- Secure access using RDP
 
-### Step 1 –  
-!(step1-create-vm.png)
-
-### Step 2 –  
-![Configuration](step2.png)
-
-### Step 3 – 
-!(step3.png)
-
-### Step 4-
-!(step4.png)
-
-### Step 5-
-!(step5.png)
-
-###Step 6-
-!(step6.png)
-
-### Step 7- Deployment is Ready
-!(step7.png)
-
-### Step 8- Final Phase
-! (step8.png) and (picture9.png)
-
-## ✅ Skills Gained
-- VM Deployment
-- Azure Networking
-- NSG Rules
-- RDP Access
-
-## 📅 Date of Completion
+## 📅 Completion Date
 July 2025
 
 ## 👤 Author
-Mohammed Afnaan
+**Mohammed Afnaan**
