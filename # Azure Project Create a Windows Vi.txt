@@ -1,0 +1,52 @@
+# Azure Project: Create a Windows Virtual Machine
+
+## 📘 Overview
+This project demonstrates how to create and access a Windows Virtual Machine (VM) using the Microsoft Azure Portal.
+
+## 📌 Project Objectives
+- Launch a Windows 10 VM in Azure
+- Set up networking and public IP
+- Connect using Remote Desktop (RDP)
+
+## 🧰 Tools Used
+- Microsoft Azure Portal
+- Windows Remote Desktop
+- Resource Groups, NSG, VM, Disk, NIC
+
+## 📸 Screenshots
+
+### Step 1 –  
+!(step1-create-vm.png)
+
+### Step 2 –  
+![Configuration](step2.png)
+
+### Step 3 – 
+!(step3.png)
+
+### Step 4-
+!(step4.png)
+
+### Step 5-
+!(step5.png)
+
+###Step 6-
+!(step6.png)
+
+### Step 7- Deployment is Ready
+!(step7.png)
+
+### Step 8- Final Phase
+! (step8.png) and (picture9.png)
+
+## ✅ Skills Gained
+- VM Deployment
+- Azure Networking
+- NSG Rules
+- RDP Access
+
+## 📅 Date of Completion
+July 2025
+
+## 👤 Author
+Mohammed Afnaan
